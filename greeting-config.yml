@@ -14,4 +14,4 @@ quoteServiceURL: http://quote-service-dev.cfapps.io/quote
 logging:
  level:
    io:
-     pivotal: DEBUG
+     pivotal: INFO
